@@ -1,0 +1,28 @@
+# Data
+data/
+*.parquet
+*.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+.env
+HACKATHON_SETUP.md
